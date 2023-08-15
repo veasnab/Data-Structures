@@ -1,3 +1,3 @@
-<h1>tcss&342: Data Structures</h1>
-Covers data structures and classical algorithms with an emphasis on implementing them in high-level programming languages. 
-Includes sequential and linked lists, binary trees, heaps, B-trees, hash tables, graphs, and algorithms for searching and sorting. 
+# Data Structures
+Covers abstract data types, design and complexity analysis of data, and usage of generic structure libraries in high-level programming languages. Includes sequential and linked lists, heaps,
+binary search trees and balanced binary search trees, B-trees, hash tables, and graphs. 
