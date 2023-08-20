@@ -1,5 +1,4 @@
 # Data Structures
-## Description
 ### Lists
 1. TCSS342 Assignment 1 - Veasna Bun 
     - Implement linked list data structure.
