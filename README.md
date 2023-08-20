@@ -1,8 +1,8 @@
 # Data Structures
 ### Lists
 1. TCSS342 Assignment 1 - Veasna Bun 
-  - Implement linked list data structure.
-  - Implement dynamically sized array.
+    - Implement linked list data structure.
+    - Implement dynamically sized array.
 ### Self-Organizing Lists
 2. TCSS342 Assignment 1.Extra - Veasna Bun 
   - Implement specialized data structures out of a linked list.
